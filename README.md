@@ -1,2 +1,18 @@
 # Leetcode Solutions
 Solutions are posted here using <a href="https://github.com/SahilKasare/CodeCommit">CodeCommit</a> : which automatically stores the leetcode solution of the question in this github repo.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+<!---LeetCode Topics End-->
