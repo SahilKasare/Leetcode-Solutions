@@ -21,6 +21,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
