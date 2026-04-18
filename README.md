@@ -7,6 +7,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -154,6 +155,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1622-fancy-sequence](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
