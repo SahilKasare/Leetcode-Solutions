@@ -21,6 +21,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -114,6 +115,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2615-sum-of-distances](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -127,6 +129,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2615-sum-of-distances](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
