@@ -6,6 +6,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -102,6 +103,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -173,6 +175,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1622-fancy-sequence](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
