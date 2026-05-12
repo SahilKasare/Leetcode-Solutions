@@ -27,6 +27,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [1980-find-unique-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2553-separate-the-digits-in-an-array](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
@@ -110,6 +111,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [1914-cyclically-rotating-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
