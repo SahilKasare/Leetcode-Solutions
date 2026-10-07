@@ -93,6 +93,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0020-valid-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
@@ -167,6 +168,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -292,6 +294,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
