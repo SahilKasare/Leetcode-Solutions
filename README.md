@@ -58,6 +58,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0678-valid-parenthesis-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -101,6 +102,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -277,6 +279,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0856-score-of-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2751-robot-collisions](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -318,4 +321,5 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0856-score-of-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
