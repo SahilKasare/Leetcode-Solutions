@@ -37,6 +37,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -66,6 +67,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
@@ -165,6 +167,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2615-sum-of-distances](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -193,6 +196,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
