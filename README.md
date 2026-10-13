@@ -52,6 +52,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -70,6 +71,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
