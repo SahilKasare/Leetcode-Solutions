@@ -72,6 +72,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -238,6 +239,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Design
