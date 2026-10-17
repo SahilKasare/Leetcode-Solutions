@@ -48,6 +48,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -176,6 +177,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -267,6 +269,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2784-check-if-array-is-good](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
