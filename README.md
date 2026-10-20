@@ -61,6 +61,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +300,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2778-sum-of-squares-of-special-elements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
