@@ -127,6 +127,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
