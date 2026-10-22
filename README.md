@@ -62,6 +62,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
