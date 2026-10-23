@@ -53,6 +53,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
@@ -212,6 +213,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
