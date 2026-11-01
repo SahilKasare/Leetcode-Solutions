@@ -9,6 +9,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0048-rotate-image](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -265,6 +266,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0788-rotated-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
