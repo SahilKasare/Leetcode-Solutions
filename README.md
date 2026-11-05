@@ -14,6 +14,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0874-walking-robot-simulation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -241,6 +242,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -305,6 +307,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -330,6 +333,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
