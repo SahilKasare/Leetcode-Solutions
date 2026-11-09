@@ -22,6 +22,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -161,6 +162,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0657-robot-return-to-origin](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -333,6 +335,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -458,4 +461,8 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
