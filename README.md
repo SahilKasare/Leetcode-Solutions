@@ -96,6 +96,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +302,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Design
 | Problem Name | Difficulty |
