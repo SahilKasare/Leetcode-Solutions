@@ -17,6 +17,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [1267-count-servers-that-communicate](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -184,6 +185,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0678-valid-parenthesis-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -236,6 +238,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2615-sum-of-distances](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -296,6 +299,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0788-rotated-digits](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1622-fancy-sequence](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
