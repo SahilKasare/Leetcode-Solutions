@@ -41,6 +41,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2333-minimum-sum-of-squared-difference](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -94,6 +95,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -343,6 +345,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [2089-find-target-indices-after-sorting-array](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
