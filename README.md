@@ -87,6 +87,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -245,6 +246,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -524,4 +527,16 @@ Solutions are posted here using <a href="https://github.com/SahilKasare/CodeComm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SahilKasare/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
